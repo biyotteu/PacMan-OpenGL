@@ -1,0 +1,73 @@
+﻿  PacMan.cpp
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(217,33): warning C4244: '인수': '_Ty2'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(217,19): warning C4244: '인수': '_Ty1'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(225,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(225,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(244,17): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(244,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(263,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(263,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(272,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(272,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(273,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(273,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(274,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(274,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(275,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(275,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(288,26): warning C4244: '인수': '_Ty2'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(288,16): warning C4244: '인수': '_Ty1'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(296,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(296,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(306,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(306,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(307,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(307,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(308,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(308,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(309,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(309,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(314,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(314,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(315,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(315,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(316,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(316,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(317,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(317,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(322,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(322,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(323,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(323,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(324,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(324,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(325,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(325,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(330,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(330,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(331,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(331,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(332,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(332,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(333,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(333,16): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(345,18): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(345,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tjqtj\Desktop\openGL\PacMan\PacMan.cpp(184): warning C4715: 'IsCrash': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PacMan.vcxproj -> C:\Users\tjqtj\Desktop\openGL\PacMan\\bin\x64\PacMan.exe
